@@ -1,7 +1,8 @@
 class A{
 public static void main(String args[])
 {
-
+ Testert=new Tester();
+t.getdata();
 System.out.println("Welcome to GITHUB");
 
 
